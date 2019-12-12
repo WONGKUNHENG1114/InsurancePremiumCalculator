@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">InsurancePremiumCalculator</string>
+    <string name="ttl_insurance">InsurancePremiumCalculator</string>
+    <string name="ttl_Smoker">Smoker</string>
+    <string name="ttl_gender">Gender:</string>
+    <string name="ttl_age">Age:</string>
+    <string name="ttl_TotalPremium">TotalPremium</string>
+    <string name="ttlBtn_calculate">Calculate</string>
+    <string name="ttl_btnReset">Reset</string>
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="ttl_smoker">smoker</string>
+    <string-array name="aging">
+        <item>Less than 17</item>
+        <item>17 - 25</item>
+        <item>26 - 30</item>
+        <item>31 - 40</item>
+        <item>41 - 55</item>
+        <item>more than 55</item>
+    </string-array>
+
+</resources>
